@@ -1,6 +1,7 @@
 # 2026년 SPRINGBOOT STUDY
-
+안녕! 여기는 스프링을 공부하는 곳이야~
 <br>
+
 
 ## 스프링부트 마스터 스터디
 >스프링부트의 원리를 알고 눈 감고도 쓸 수 있을 정도의 실력 키우기
@@ -11,6 +12,8 @@
 - Spring과 Spring Boot의 차이점 이해하기
 - 제어의 역전(IoC)과 의존성 주입(DI) 개념 마스터하기
 - [Java](https://github.com/HamJiWeon/sprint-coding-test), [Spring Boot](https://github.com/y2ahhh/2026-SPRING-STUDY), [PostgreSQL](https://github.com/y2ahhh/2026-SPRING-STUDY) 마스터하기
+- 코딩짱 되기
+- 월 1000 벌기
 
 <br>
 
