@@ -1,10 +1,10 @@
 # 2026년 SPRINGBOOT STUDY
 안녕! 여기는 스프링을 공부하는 곳이야~
+
 <br>
 
-
 ## 스프링부트 마스터 스터디
->스프링부트의 원리를 알고 눈 감고도 쓸 수 있을 정도의 실력 키우기
+> 토비의 스프링 3.1을 보고 공부하며 스프링부트의 원리를 알고 눈 감고도 쓸 수 있을 정도의 실력 키우기
 
 <br>
 
@@ -22,3 +22,6 @@
 |:-:|:-:|:-:|:-:|
 |<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ddbb6900-c31a-4713-b40f-276d2ebf3e25" />|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/09baa286-bf17-46f0-8319-7fa0aaebcc5e" />|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/574fd9f7-75cf-46ce-a5a0-26feced29ce5" />|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ac5a9ad0-6ec6-4726-bb53-24eb0d4dc207" />|
 |[K-Dayeon03](https://github.com/K-Dayeon03)|[y2ahhh](https://github.com/y2ahhh)|[애니프사희망](https://github.com/jangjunseo518-collab)|[HamJiWeon](https://github.com/HamJiWeon)|
+
+## 순서
+지원 ➭ 예은 ➭ 다연 ➭ 준서
